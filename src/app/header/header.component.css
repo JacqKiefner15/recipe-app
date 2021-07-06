@@ -1,0 +1,7 @@
+.header {
+  display:flex;
+}
+
+.header-content {
+  flex-direction: row;
+}
